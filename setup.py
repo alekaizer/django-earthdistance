@@ -7,7 +7,7 @@ setup(
     version='1',
     install_requires=[
         'django>=1.8'],
-    url='https://github.com/jneight/django-earthdistance',
+    url='https://github.com/alekaizer/django-earthdistance',
     description='Add support for PostgreSQL earthdistance extension to Django',
     long_description=open("README.rst").read(),
     packages=find_packages(),
